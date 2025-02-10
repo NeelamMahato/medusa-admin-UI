@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "arrowParens": "always",
   "semi": false,
@@ -6,3 +7,13 @@
   "tabWidth": 2,
   "trailingComma": "es5"
 }
+=======
+{
+  "arrowParens": "always",
+  "semi": false,
+  "endOfLine": "auto",
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5"
+}
+>>>>>>> 531fee6 (folders added)
